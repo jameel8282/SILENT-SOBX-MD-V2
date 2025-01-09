@@ -27,6 +27,7 @@
         "@sl-code-lords/si-subdl": "1.1.1",
         "@sl-code-lords/wabetainfo": "1.2.0",
         "@tobyg74/tiktok-api-dl": "1.0.13",
+        "@dark-yasiya/yt-dl.js":"latest", 
         "@vitalets/google-translate-api": "9.2.0",
         "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
         "api-dylux": "latest",
@@ -121,7 +122,6 @@
         "yt-search": "2.12.1", 
         "@mrnima/tiktok-downloader":"1.0.0",
         "@mrnima/facebook-downloader":"1.0.0",
-        "mrnima-moviedl":"1.0.0", 
-        "@dark-yasiya/yt-dl.js":"latest"
+        "mrnima-moviedl":"1.0.0"
     }
 }
